@@ -5,3 +5,8 @@ spec/dummy
 
 # Local Gemfile for developing without sharing dependencies
 .gemfile
+
+
+# Vim
+*.swp
+*.swo
